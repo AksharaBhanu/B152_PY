@@ -1,1 +1,168 @@
-GM
+https://aksharatraining.in/
+Bhanu: 9481787493
+Divya:7204842332 
+Email: info@aksharatraining.com
+
+
+To watch B152 Python videos on mobile app 
+Please follow the steps
+
+A. Open Akshara Mobile App
+B. Click 'Batches' at the bottom of the screen
+C. Click +
+D. Enter the batch code as B152 and click OK
+
+After your batch request is approved follow the below Steps
+
+1. Open Akshara Mobile App
+2. Click Batches at the bottom of the screen
+3. Click on B152-7.30AM-Python 
+4. Click Videos tab
+
+Link to download the mobile app
+https://aksharatraining.in/mobile-app/
+
+
+GITHUB
+https://github.com/AksharaBhanu/B152_PY.git
+
+Syllabus
+https://aksharatraining.in/python_playwright_syllabus.html
+https://aksharatraining.in/AI_Testing.html
+
+
+Zoom Registration
+https://youtu.be/AzrbFqxLHKY
+
+7.30AM to 9AM
+Mon-Fri
+
+every day same zoom link
+same passcode: live
+
+Join using Laptop
+
+day: assignment
+week: home work
+month: mock interview 
+CV: 1-1 
+
+https://calendly.com/aksharatraining/30min
+
+
+-------------------------------------------------------------------------------------------------
+
+Playwright --> JS Python Java C# TypeScript
+Python --> High level coding language 
+
+language-medium of communication
+computer--> instructions to the computer --> language CLI
+DOS
+
+0 1 --> binary languge --> HLL--> english like : c c++ java python
+translator --> HLL-LLL
+10 lines of instructions--line by line --> interpretation 
+10 line is converted ---> executed --compilation 
+
+Programing--> dev software --> C C++ Java Python
+Scripting--> service , testing , support --> JS VBS Shell TypeScript 
+
+Python --PL --interpreted 
+
+
+link to download python for windows
+https://www.python.org/ftp/python/3.14.3/python-3.14.3-amd64.exe
+
+windows:
+> python --version
+
+> where python
+
+
+Mac:
+> python3 --version
+
+> which python3
+
+-------------------------
+
+open cmd
+type python and press enter
+we get >>>
+
+>>>print("Hi")
+Hi
+
+
+print--> built-in function of python 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
