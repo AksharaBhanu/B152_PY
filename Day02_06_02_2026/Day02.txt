@@ -1,0 +1,77 @@
+installed python
+cmd/terminal --> python --version
+
+where python
+which python
+
+Dev
+1. write code
+2. compile/interprete
+3. execute
+4. debug
+5. unit testing
+6. review code
+7. code coverage
+8. SCM
+9. builds
+
+IDE (integrated Development Environment)
+PyCharm
+
+Project--> package --> module (.py)--> write the code
+
+# comment 
+ctrl /
+
+in python we must write the code at the begining of each line ( without any space)
+to store the data/information we use varibale
+
+varibale is a container or memory space to store data
+
+in python we do not use ; at the end
+
+a=10 #in python we directly assign the value- no declaration of var in python
+b=20 #if variable name is new , it will create it
+a=50 #a var can hold only one value at a time
+#if variable name already exists , it overwrites  it
+
+
+
+identifier (user defined names)
+rules to specify identifier (variable name)
+1. NO KEYWORDS
+['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
+
+2. it must contain only a-z A-Z 0-9 _
+   (not allowed - other special char , space)
+
+3. it should not start with a digit 
+
+4. it is case senstive
+
+5. no limit on max length 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
